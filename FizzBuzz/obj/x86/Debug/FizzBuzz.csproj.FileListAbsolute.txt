@@ -4,3 +4,5 @@
 /Users/JuanCMontoya/Projects/TDD/TDDBasicswithCSharp/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.pdb
 /Users/JuanCMontoya/Projects/TDD/TDDBasicswithCSharp/FizzBuzz/FizzBuzz/obj/x86/Debug/FizzBuzz.exe
 /Users/JuanCMontoya/Projects/TDD/TDDBasicswithCSharp/FizzBuzz/FizzBuzz/obj/x86/Debug/FizzBuzz.pdb
+/Users/JuanCMontoya/Projects/TDD/TDDBasicswithCSharp/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.Library.dll
+/Users/JuanCMontoya/Projects/TDD/TDDBasicswithCSharp/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.Library.pdb
