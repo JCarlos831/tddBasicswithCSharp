@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/TDD/TDDBasicswithCSharp/FizzBuzz/FizzBuzz.Library/bin/Debug/FizzBuzz.Library.dll
+/Users/JuanCMontoya/Projects/TDD/TDDBasicswithCSharp/FizzBuzz/FizzBuzz.Library/bin/Debug/FizzBuzz.Library.pdb
+/Users/JuanCMontoya/Projects/TDD/TDDBasicswithCSharp/FizzBuzz/FizzBuzz.Library/obj/Debug/FizzBuzz.Library.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/TDD/TDDBasicswithCSharp/FizzBuzz/FizzBuzz.Library/obj/Debug/FizzBuzz.Library.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/TDD/TDDBasicswithCSharp/FizzBuzz/FizzBuzz.Library/obj/Debug/FizzBuzz.Library.dll
+/Users/JuanCMontoya/Projects/TDD/TDDBasicswithCSharp/FizzBuzz/FizzBuzz.Library/obj/Debug/FizzBuzz.Library.pdb

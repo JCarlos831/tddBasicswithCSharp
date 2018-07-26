@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{1762407E-AF2B-4314-AC65-722A8ABB33D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FizzBuzz.Library.Tests/MyClass.cs">
+    <Files>
+      <File FileName="FizzBuzz/Program.cs" Line="9" Column="32" />
+      <File FileName="FizzBuzz.Library/FizzBuzzer.cs" Line="6" Column="9" />
+      <File FileName="FizzBuzz.Library.Tests/MyClass.cs" Line="4" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FizzBuzz.Library FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FizzBuzz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FizzBuzz.Library.Tests FirstBuild="True" />
+</Properties>
